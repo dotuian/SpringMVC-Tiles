@@ -1,11 +1,7 @@
 <html>
 <body>
-	<h2>Hello World!</h2>
-	<h2>Hello World!</h2>
-	<h2>Hello World!</h2>
-	
-	<a href="addContact">addContact</a>
-	<a href="contact">contact</a>
-		
+	<p><a href="form">Form</a></p>
+	<p><a href="hello">Hello</a></p>
+	<p><a href="index">Index</a></p>
 </body>
 </html>
